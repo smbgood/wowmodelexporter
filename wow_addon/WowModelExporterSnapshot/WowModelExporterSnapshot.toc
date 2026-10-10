@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: WoW Model Exporter Snapshot
+## Notes: Captures character gear snapshots for external export tooling.
+## Author: wowmodelexport
+## Version: 0.1.0
+## SavedVariablesPerCharacter: WME_SnapshotsDB
+
+WowModelExporterSnapshot.lua

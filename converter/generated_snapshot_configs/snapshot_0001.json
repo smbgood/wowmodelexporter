@@ -1,0 +1,66 @@
+{
+  "animation_ids": [
+    0,
+    4,
+    5,
+    69
+  ],
+  "equipment_display_ids": {
+    "back": 27673,
+    "chest": 16878,
+    "feet": 11571,
+    "finger1": 9839,
+    "finger2": 66245,
+    "hands": 16642,
+    "head": 16826,
+    "legs": 6297,
+    "mainhand": 20340,
+    "neck": 9852,
+    "ranged": 20903,
+    "shirt": 12802,
+    "shoulder": 25986,
+    "trinket1": 3422,
+    "waist": 11533,
+    "wrist": 16901
+  },
+  "output_path": "B:\\raven\\RavenCraft\\exports\\snapshot_0001_nightelf.glb",
+  "profile": {
+    "face_index": 0,
+    "facial_hair_index": 0,
+    "hair_color_index": 0,
+    "hair_style_index": 0,
+    "race": "nightelf",
+    "sex": "female",
+    "skin_index": 0
+  },
+  "snapshot_item_ids": {
+    "back": 55377,
+    "chest": 6610,
+    "feet": 6394,
+    "finger1": 1156,
+    "finger2": 60690,
+    "hands": 6393,
+    "head": 2721,
+    "legs": 4316,
+    "mainhand": 5201,
+    "neck": 61155,
+    "ranged": 5207,
+    "shirt": 4344,
+    "shoulder": 14186,
+    "trinket1": 5218,
+    "waist": 6392,
+    "wrist": 1974
+  },
+  "snapshot_meta": {
+    "class": "PRIEST",
+    "name": "Osiria",
+    "note": "equipment_display_ids resolved using DB export + lookup file where available; unresolved_item_ids require manual/DB resolution",
+    "race": "NightElf",
+    "raw_payload": "WME_SNAPSHOT|back=55377|chest=6610|class=PRIEST|feet=6394|finger1=1156|finger2=60690|hands=6393|head=2721|legs=4316|mainhand=5201|name=Osiria|neck=61155|race=NightElf|ranged=5207|realm=Medivh|sex=female|shirt=4344|shoulder=14186|trinket1=5218|waist=6392|wrist=1974",
+    "realm": "Medivh",
+    "sex": "female",
+    "snapshot_id": 1
+  },
+  "unresolved_item_ids": {},
+  "wow_data_path": "B:\\raven\\RavenCraft\\Data"
+}

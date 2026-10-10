@@ -1,0 +1,38 @@
+{
+  "animation_ids": [
+    0,
+    4,
+    5,
+    69
+  ],
+  "equipment_display_ids": {
+    "chest": 30543,
+    "mainhand": 31959
+  },
+  "output_path": "B:\\raven\\RavenCraft\\exports\\snapshot_0002_nightelf.glb",
+  "profile": {
+    "face_index": 0,
+    "facial_hair_index": 0,
+    "hair_color_index": 0,
+    "hair_style_index": 0,
+    "race": "nightelf",
+    "sex": "female",
+    "skin_index": 0
+  },
+  "snapshot_item_ids": {
+    "chest": 20038,
+    "mainhand": 19334
+  },
+  "snapshot_meta": {
+    "class": "Warrior",
+    "name": "smbgood",
+    "note": "equipment_display_ids resolved using DB export file where available; unresolved_item_ids require manual resolution",
+    "race": "NightElf",
+    "raw_payload": "WME_SNAPSHOT|class=Warrior|chest=20038|mainhand=19334|name=smbgood|race=NightElf|realm=RavenCraft|sex=female",
+    "realm": "RavenCraft",
+    "sex": "female",
+    "snapshot_id": 2
+  },
+  "unresolved_item_ids": {},
+  "wow_data_path": "B:\\raven\\RavenCraft\\Data"
+}

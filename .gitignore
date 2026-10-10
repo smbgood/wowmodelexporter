@@ -1,0 +1,11 @@
+/converter/target/
+*.glb
+*.gltf
+*.bin
+*.mpq
+*.MPQ
+/tmp/
+/tortoise-wow-mantech-turtle/*
+/turtle-server/*
+item-to-id.csv
+twow-db-extract.csv

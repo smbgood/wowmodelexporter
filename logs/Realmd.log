@@ -1,0 +1,4 @@
+2026-10-10 06:40:50 Max allowed open files is 1024
+2026-10-10 06:40:50 ERROR:Could not connect to MySQL database at 127.0.0.1: Access denied for user 'mangos'@'localhost' (using password: YES)
+
+2026-10-10 06:40:50 ERROR:Cannot connect to database
